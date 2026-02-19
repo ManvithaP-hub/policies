@@ -19,4 +19,4 @@ readme: |
 annotations:
   kyverno/category: "Software Supply Chain Security, EKS Best Practices"
   kyverno/subject: "Pod"
-digest: c315f0db7538deb20debade15ceb0fcbbdf4e526512acac6af95048dd1ecb0e5
+digest: d8b3b97757c26761e3f1680c47a21f4d75bd21780485f8bed94b2b1369be68aa
